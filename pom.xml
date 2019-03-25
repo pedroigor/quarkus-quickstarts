@@ -30,5 +30,6 @@
         <module>microprofile-fault-tolerance</module>
         <module>microprofile-health</module>
         <module>microprofile-metrics</module>
+        <module>using-keycloak</module>
     </modules>
 </project>

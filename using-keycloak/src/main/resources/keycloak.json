@@ -1,0 +1,7 @@
+{
+  "realm": "protean",
+  "auth-server-url": "http://localhost:8180/auth",
+  "ssl-required": "external",
+  "resource": "protean-app",
+  "bearer-only" : true
+}
